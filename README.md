@@ -27,6 +27,7 @@ Sponza and vokselia model downloaded from Morgan McGuire's [Computer Graphics Ar
 - crate01_color_height_rgba, crate02_color_height_rgba from [OpenGameArt](https://opengameart.org) licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 - lavaplanet_color_rgba by [Spiral Graphics](http://spiralgraphics.biz), royalty free [useage](http://spiralgraphics.biz/packs/usage_rights.htm)
 - metalplate01_rgba by [Hugues Muller](https://www.deviantart.com/yughues)
+- Lenna downloaded from [Wikipedia](https://en.wikipedia.org/wiki/File:Lenna_(test_image).png)
 - Images used for the basisu compressed textures based on true color images by the Kodak Corporation for unrestricted research usage
 - All other textures have been created for this repository by Sascha Willems and are licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
